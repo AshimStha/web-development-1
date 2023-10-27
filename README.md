@@ -40,11 +40,15 @@ for (let x in person) {
 }
 ```
 
-- SQL scripts
+- JS principles
+- Arithmetic operations
 - Operators
-- Aggregate functions and Groups
-- Joins and aliases
-- Pks and FKs
-- Database design practice
+- Conditional statements
+- Loops
+- Objects
+- Arrays
+- Functions
+- Events handling
+- Form handling
 
 [^1]: We have learned the above topics by now:
