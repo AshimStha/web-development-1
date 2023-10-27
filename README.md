@@ -16,7 +16,7 @@ In this class, we look at the core principles for JavaScript scripting language.
 
 ![JS meme](./_readme/JS.jpg)
 
-_A programming meme for MySQL"_
+_A programming meme for JS"_
 
 > :memo: **Note:** This class is very fun because of the fact that it requires a lot of thinking and also because of our tutor Sean.
 
